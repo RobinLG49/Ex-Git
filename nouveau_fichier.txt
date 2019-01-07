@@ -1,3 +1,7 @@
 Nouveau fichier
 
+<<<<<<< HEAD:nouveau_fichier
 Coucou bande de nouilles! Ca va? Je galère mes grands morts mais c rigolo
+=======
+ALlez l'OM
+>>>>>>> 686dee05da972a22bb7876f03224f994040bb4ae:nouveau_fichier.txt
